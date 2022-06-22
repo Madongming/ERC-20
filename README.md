@@ -1,10 +1,11 @@
 # An ERC20-implemented toy
 
+cmd:
+```shell
 npm i
 (Optional) npm i hardhat
 
 npx hardhat test
-```
 No need to generate any newer typings.
 
 
