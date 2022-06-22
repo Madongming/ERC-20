@@ -4,6 +4,7 @@ npm i
 (Optional) npm i hardhat
 
 npx hardhat test
+```
 No need to generate any newer typings.
 
 
@@ -22,3 +23,4 @@ No need to generate any newer typings.
 
 
   11 passing (1s)
+```
